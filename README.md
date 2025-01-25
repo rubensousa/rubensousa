@@ -4,12 +4,7 @@ I’m an Android Engineer currently working at [Joyn](https://www.joyn.de/) on A
 
 I like contributing to open source projects and build helpful libraries here on Github.
 
-Follow me on:
-
-- [Twitter](https://twitter.com/SousaRub)
-
-- <a rel="me" href="https://androiddev.social/@rubensousa">Mastodon</a>
-
+Feel free to check my sponsors page in case you're interested in extra support: [Sponsors](https://github.com/sponsors/rubensousa)
 
 Latest blog post:
 
