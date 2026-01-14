@@ -8,6 +8,7 @@ Feel free to check my sponsors page in case you're interested in extra support: 
 
 Latest blog posts:
 
+[Exploring the game Peg Solitaire](https://rubensousa.com/2026/01/07/peg-solitaire/)
 [Carioca - Suite of testing libraries for Android](https://rubensousa.com/2025/04/09/carioca/)
 
 [DpadRecyclerView - A RecyclerView built for Android TV](https://rubensousa.com/2022/11/08/dpadrecyclerview/)
