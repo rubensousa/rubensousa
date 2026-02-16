@@ -8,7 +8,7 @@ Feel free to check my sponsors page in case you're interested in extra support: 
 
 Latest blog posts:
 
-[DependencyGuard: protect your project's dependency graph](https://rubensousa.com/2026/02/16/dependencyguard/)
+[ProjectGuard: protect your project's dependency graph](https://rubensousa.com/2026/02/16/projectguard/)
 
 [Exploring the game Peg Solitaire](https://rubensousa.com/2026/01/07/peg-solitaire/)
 
